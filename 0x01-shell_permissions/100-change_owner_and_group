@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod vincent:staff $(find .)
+sudo chmod vincent:staff $(find .)
