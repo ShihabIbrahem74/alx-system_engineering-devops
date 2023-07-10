@@ -1,2 +1,2 @@
 #!/bin/bash
-rm $(find *.js -depth -type f)
+find . *.js -delete -type f
